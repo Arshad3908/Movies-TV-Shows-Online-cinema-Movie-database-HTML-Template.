@@ -1,0 +1,328 @@
+[
+    {
+        "name" : "TOY",
+        "category" : "TOY",
+        "price" : "50.25",
+        "imgSrc" : "https://i.ebayimg.com/images/g/PCgAAOSwNEtijAtM/s-l1200.jpg"
+    },
+    {
+        "name" : "NIKE TOY",
+        "category" : "TOY",
+        "price" : "102.00",
+        "imgSrc" : "https://cf.shopee.ph/file/88eeb600abfc1caec38a9bdbaf1f7aa2"
+    },
+    {
+        "name" : "NIKE TOY",
+        "category" : "TOY",
+        "price" : "15.00",
+        "imgSrc" : "https://cf.shopee.ph/file/0189e092d7bbafcbc30122d8fbde0e9e"
+    },
+    {
+        "name" : "NIKE TOY",
+        "category" : "TOY",
+        "price" : "23.75",
+        "imgSrc" : "https://i0.wp.com/suparrobo.com/wp-content/uploads/2014/04/p1070011.jpg?w=315&h=209&ssl=1"
+    }
+    ,
+    {
+        "name" : "NIKE BAG",
+        "category" : "BAG",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8acd38b0-525c-4d0d-80a3-44fb80444444/elemental-backpack-21l-14wb17.png"
+    }
+    ,
+    {
+        "name" : "NIKE BAG",
+        "category" : "BAG",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a6505d0f-c6bc-418c-8fbf-1c4966468b13/heritage-drawstring-bag-13l-qqH3vG.png"
+    } ,
+    {
+        "name" : "NIKE BAG",
+        "category" : "BAG",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9e646b97-ca91-4f1d-82b0-57cc57fdee99/heritage-2-small-items-bag-Ml6Mb9.png"
+    }
+    ,
+    {
+        "name" : "NIKE BAG",
+        "category" : "BAG",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ca0e08c8-2236-49bd-a014-1da426aa1565/gym-club-training-duffel-bag-3NF364.png"
+    }
+
+
+    ,
+    {
+        "name" : "NIKE CAP",
+        "category" : "CAP",
+        "price" : "23.75",
+        "imgSrc" : "https://d2ob0iztsaxy5v.cloudfront.net/product/730622/7306227270_zm.jpg"
+    } ,
+    {
+        "name" : "NIKE CAP",
+        "category" : "CAP",
+        "price" : "23.75",
+        "imgSrc" : "https://i5.walmartimages.com/asr/6fc345fd-5bf3-49a0-80bf-8b5765cad9af_1.55c788e5427e07e2f59a3b9bc48e65b3.jpeg"
+    } ,
+    {
+        "name" : "NIKE CAP",
+        "category" : "CAP",
+        "price" : "23.75",
+        "imgSrc" : "https://m.media-amazon.com/images/I/71vZNGxo24L._AC_UY1100_.jpg"
+    } ,
+    {
+        "name" : "NIKE CAP",
+        "category" : "CAP",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6146bb82-b775-443d-a40d-c5581d5ed189/sportswear-heritage-86-cap-WVg3dt.png"
+    }
+
+
+    ,
+    {
+        "name" : "MIXER GRINDER",
+        "category" : "GRINDER",
+        "price" : "23.75",
+        "imgSrc" : "https://cdn.shopify.com/s/files/1/0197/1503/1102/products/LLMG20.jpg?v=1628241890"
+    } ,
+    {
+        "name" : "MIXER GRINDER",
+        "category" : "GRINDER",
+        "price" : "23.75",
+        "imgSrc" : "https://cdn.shopify.com/s/files/1/0523/8439/9556/products/MIXER-GRINDER--ASPRO__40686_grande.jpg?v=1633117509"
+    } ,
+    {
+        "name" : "MIXER GRINDER",
+        "category" : "GRINDER",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/44/083707/1.jpg?0729"
+    } ,
+    {
+        "name" : "MIXER GRINDER",
+        "category" : "GRINDER",
+        "price" : "23.75",
+        "imgSrc" : "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1500,w-1500,cm-pad_resize/data/philips/14-08-2021/HL7777%20Product_777%20x%20826%20pxls.jpg"
+    }
+
+
+    ,
+    {
+        "name" : "NIKE CLOTH",
+        "category" : "NIKE CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4406f88-7a56-458c-bb4a-2c2d8c229dbc/swoosh-lacrosse-mens-hoodie-kl2VgG.png"
+    },
+    {
+        "name" : "NIKE CLOTH",
+        "category" : "NIKE CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2a610bb6-4907-4f51-ace6-6b1d493b941f/sportswear-tech-fleece-hoodie-p545Hj.png"
+    },
+    {
+        "name" : "NIKE CLOTH",
+        "category" : "NIKE CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c6bbbf1d-4783-4734-ac9c-0c843c16f055/academy-mens-dri-fit-1-2-zip-global-football-top-p80KBf.png"
+    },
+    {
+        "name" : "NIKE CLOTH",
+        "category" : "NIKE CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/84dbcab6-e3a7-4064-a4b8-671fbc747f07/sportswear-tech-fleece-hoodie-JGCvDN.png"
+    }
+
+
+    ,
+    {
+        "name" : "NIKE SHOE",
+        "category" : "NIKE SHOE",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/19/182997/1.jpg?1878"
+    },
+    {
+        "name" : "NIKE SHOE",
+        "category" : "NIKE SHOE",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1a7f9cad-5c96-446f-a9d5-2dfb9c34910f/cosmic-unity-2-basketball-shoes-L53XJP.png"
+    },
+    {
+        "name" : "NIKE SHOE",
+        "category" : "NIKE SHOE",
+        "price" : "23.75",
+        "imgSrc" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9355f630-53c7-4567-89b4-a788c93171ea/gt-jump-basketball-shoes-22QS5F.png"
+    },
+    {
+        "name" : "NIKE SHOE",
+        "category" : "NIKE SHOE",
+        "price" : "23.75",
+        "imgSrc" : "https://images.pexels.com/photos/3490360/pexels-photo-3490360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+
+
+
+    ,
+    {
+        "name" : "CLOTH",
+        "category" : "CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://media.istockphoto.com/id/119606200/photo/colors-of-rainbow-clothes-on-wooden-hangers.jpg?s=612x612&w=0&k=20&c=323ox5WruaUs5mQ5K2Q-6gZWb1551xVd91p4KjMu8xM="
+    },
+    {
+        "name" : "CLOTH",
+        "category" : "CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/26/566999/1.jpg?5966"
+    },
+    {
+        "name" : "CLOTH",
+        "category" : "CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/27/093248/1.jpg?7169"
+    },
+    {
+        "name" : "CLOTH",
+        "category" : "CLOTH",
+        "price" : "23.75",
+        "imgSrc" : "https://cdn.shopify.com/s/files/1/1640/5095/articles/Stack_of_African_print_fabrics_600x.jpg?v=1580761049"
+    }
+
+
+    ,
+    {
+        "name" : "REFRIGERATOR",
+        "category" : "REFRIGERATOR",
+        "price" : "23.75",
+        "imgSrc" : "https://www.u-buy.com.ng/productimg/?image=aHR0cHM6Ly9pbWFnZXMudGhkc3RhdGljLmNvbS9wcm9kdWN0SW1hZ2VzLzIzOTMxNmVjLTI0ZWQtNDgwMC1iNDA5LWZiOTNiNGI2OTljYi9zdm4vc3RhaW5sZXNzLXN0ZWVsLWZyaWdpZGFpcmUtdG9wLWZyZWV6ZXItcmVmcmlnZXJhdG9ycy1mcnRkMjAyMWFzLTY0XzYwMC5qcGc.jpg"
+    },
+    {
+        "name" : "REFRIGERATOR",
+        "category" : "REFRIGERATOR",
+        "price" : "23.75",
+        "imgSrc" : "https://nextcashandcarry.com.ng/wp-content/uploads/2023/03/N01_GL-S292RPZY-Refrigerators-Front-View-D-01__77361_2048x2048-600x398-1.jpg"
+    },
+    {
+        "name" : "REFRIGERATOR",
+        "category" : "REFRIGERATOR",
+        "price" : "23.75",
+        "imgSrc" : "https://www.sathya.in/media/87844/catalog/Urban-Tropical-Blue_02.jpg"
+    },
+    {
+        "name" : "REFRIGERATOR",
+        "category" : "REFRIGERATOR",
+        "price" : "23.75",
+        "imgSrc" : "https://kaydeeelectronics.in/wp-content/uploads/2022/07/UA55BU8000-30.png"
+    }
+    
+
+
+    ,
+    {
+        "name" : "BOYS SHIRT",
+        "category" : "BOYS SHIRT",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/43/8193621/1.jpg?0845"
+    },
+    {
+        "name" : "BOYS SHIRT",
+        "category" : "BOYS SHIRT",
+        "price" : "23.75",
+        "imgSrc" : "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/E/D/193075_1632384697.jpg"
+    },
+    {
+        "name" : "BOYS SHIRT",
+        "category" : "BOYS SHIRT",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/45/1440212/1.jpg?8794"
+    },
+    {
+        "name" : "BOYS SHIRT",
+        "category" : "BOYS SHIRT",
+        "price" : "23.75",
+        "imgSrc" : "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/B/o/Boys-Shirt---Wine--8013538.jpg"
+    }
+
+
+
+    ,
+    {
+        "name" : "Girls Bumper",
+        "category" : "Girls Bumper",
+        "price" : "23.75",
+        "imgSrc" : "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/K/R/52404_1589986891.jpg"
+    },
+    {
+        "name" : "Girls Bumper",
+        "category" : "Girls Bumper",
+        "price" : "23.75",
+        "imgSrc" : "https://images.yaoota.com/FzHVcFkjpbIxwZvNFCge-uamI9Y=/trim/yaootaweb-production-ng/media/crawledproductimages/d6a248ea99e3120fd7cd0b1ed6b2b2e559ea6d5b.jpg"
+    },
+    {
+        "name" : "Girls Bumper",
+        "category" : "Girls Bumper",
+        "price" : "23.75",
+        "imgSrc" : "https://www-konga-com-res.cloudinary.com/w_200,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/F/l/Floral-Velvet-Gathered-Skirt---Multicolour-7983983.jpg"
+    },
+    {
+        "name" : "Girls Bumper",
+        "category" : "Girls Bumper",
+        "price" : "23.75",
+        "imgSrc" : "https://images.yaoota.com/PnrmHe3PJu92WdHNTUKiUkVi3Ws=/trim/fit-in/500x500/filters:quality(80)/yaootaweb-production-ng/media/crawledproductimages/7cec08f4185d6d0877a90ac797463971aaa5dc13.jpg"
+    }
+    
+
+    ,
+    {
+        "name" : "Air Conditioner",
+        "category" : "Air Conditioner",
+        "price" : "23.75",
+        "imgSrc" : "https://www.lg.com/levant_en/images/air-conditioning-units/md07547825/gallery/D-1.jpg"
+    },
+    {
+        "name" : "Air Conditioner",
+        "category" : "Air Conditioner",
+        "price" : "23.75",
+        "imgSrc" : "https://thisoldhouse.jppadmin.com/wp-content/uploads/sites/10/2023/04/wall-mounted-air-conditionerAdobeStock_519547993-scaled.jpeg"
+    },
+    {
+        "name" : "Air Conditioner",
+        "category" : "Air Conditioner",
+        "price" : "23.75",
+        "imgSrc" : "https://gardenroomhub.co.uk/wp-content/uploads/2022/01/air-conditioning-wall.jpg"
+    },
+    {
+        "name" : "Air Conditioner",
+        "category" : "Air Conditioner",
+        "price" : "23.75",
+        "imgSrc" : "https://blog.goldstonehvacr.com/wp-content/uploads/2019/11/air-conditioner_34936-1210.jpg"
+    }
+
+
+
+    ,
+    {
+        "name" : "Girls Cloth",
+        "category" : "Girls Cloth",
+        "price" : "23.75",
+        "imgSrc" : "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/43/461763/1.jpg?1760"
+    },
+    {
+        "name" : "Girls Cloth",
+        "category" : "Girls Cloth",
+        "price" : "23.75",
+        "imgSrc" : "https://cf.shopee.ph/file/1cb0472b674772ce0b904c32f840aa74"
+    },
+    {
+        "name" : "Girls Cloth",
+        "category" : "Girls Cloth",
+        "price" : "23.75",
+        "imgSrc" : "https://fatcat.ng/storage/avatars/ng/4494/thumb-816x460-4c1eda51ca823aadc2c676f29bfa8a3d.jpg"
+    },
+    {
+        "name" : "Girls Cloth",
+        "category" : "Girls Cloth",
+        "price" : "23.75",
+        "imgSrc" : "https://www.cartrollers.com/wp-content/uploads/2022/05/UNISEX-UP-AND-DOWN-SHORT-AND-TOP-5.jpeg"
+    }
+    
+]

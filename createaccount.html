@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>KENTAI - Furniture</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- font awesome cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="Xstyle.css">
+    <link rel="stylesheet" href="furniture.json">
+  </head>
+  <body>
+
+    <!-- header  -->
+    <header>
+        <div class = "container">
+            <!-- navbar -->
+            <nav class = "navbar">
+              <a href = "index.html" class = "navbar-brand"><b style="color:hsl(218, 39%, 14%);">KEN<b style="color:  hsl(211, 100%, 50%);">TAI</b></b></a>
+              <button type = "button" class = "navbar-toggler">
+                <i class = "fas fa-bars"></i>
+              </button>
+              <div class = "navbar-collapse" style="background-color:hsl(218, 39%, 14%);">
+                <ul >
+               
+                  <li><a href = "index.html" style="color: rgb(255, 255, 255);">Home</a></li>
+                  <li><a href = "category.html" style="color: rgb(255, 255, 255);">Category</a></li>
+                  <li><a href = "live.html" style="color: rgb(255, 255, 255);">Live</a></li>
+                
+                  
+                  
+                </ul>
+              </div>
+
+          
+        </nav>
+        <!-- end of navbar -->
+
+        <!-- banner -->
+        <div class = "banner">
+          <div class = "banner-content">
+            <h1>KENTAI</h1>
+            <p class = "text">Kentai Movies & TV Shows, Online cinema, Movie database HTML Template.</p>
+            <div class = "btns">
+                <button type = "button" class = "btn"><a href="index.html">know more</a> </button>
+                <button type = "button" class = "btn"><a href="index.html">More Info</a></button>
+            </div>
+          </div>
+
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <title>Create Account</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+              body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 20px;
+              }
+          
+              h1 {
+                text-align: center;
+              }
+          
+              form {
+                max-width: 400px;
+                margin: 0 auto;
+              }
+          
+              label {
+                display: block;
+                margin-bottom: 10px;
+              }
+          
+              input[type="text"],
+              input[type="email"] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+              }
+          
+              input[type="button"] {
+                width: 100%;
+                padding: 10px;
+                background-color:  hsl(218, 39%, 14%);
+                color: #ffffff;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                
+                height: 50px;
+              }
+          
+              input[type="button"]:hover {
+                background-color:hsl(218, 39%, 14%);
+              }
+            </style>
+            <script>
+              function createAccount() {
+                var firstName = document.getElementById("firstName").value;
+                var lastName = document.getElementById("lastName").value;
+                var email = document.getElementById("email").value;
+          
+                if (firstName === "" || lastName === "" || email === "") {
+                  alert("Kindly fill the form.");
+                } else {
+                  // Store user information (you can customize this part based on your needs)
+          
+                  // Redirect to signup.html
+                  window.location.href = "signup.html";
+                }
+              }
+            </script>
+          </head>
+          <body>
+        
+            <form>
+              <label for="firstName"><b style="font-size: larger;" ><h4 style="color:hsl(218, 39%, 14%);">Create Account:</h4></b></label> <br>
+              <label for="firstName"  style="color:  hsl(218, 39%, 14%);" >First Name:</label>
+              <input type="text" id="firstName" required placeholder="First Name">
+          
+              <label for="lastName"  style="color:hsl(218, 39%, 14%);">Last Name:</label>
+              <input type="text" id="lastName" required placeholder="Last Name">
+          
+              <label for="email"  style="color: hsl(218, 39%, 14%);" >Email:</label>
+              <input type="email" id="email" required placeholder="Email@gmail.com">
+          
+              <input type="button" value="Create Account" onclick="createAccount()"> <br><br><br>
+            
+              <label for="firstName"  style="color: hsl(218, 39%, 14%);">Already have account ? click <a href="signup.html"><b style="color:  hsl(218, 39%, 14%);">HERE</b></label>
+            </form>
+          </body>
+          </html>
+          
+        </div>
+        <!-- end of banner  -->
+      </div>
+    </header>
+    <!-- end of header -->
+<br><br><br><br><br><br>
+
+
+
+    
+<script src="apps.js"></script>
+</body>
+</html>
